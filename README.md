@@ -1,4 +1,4 @@
-# nze-me
+## nzeme
 Nzeme is a collaborative tool about African names, places, other things etc.
 # Introduction
 If you are African, I would like to give you a simple test. 
