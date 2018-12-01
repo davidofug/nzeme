@@ -16,4 +16,5 @@ Because I might not mention about the benefits of speaking a foreign language, I
 Both foreign and native languages can co-exist in a community, especially if the people of the community have a good idea about both the languages. However, if you would agree with me for example in Buganda, luganda has adapted some English words hence losing the native words. For example, native people who don't even speak English refer many English tools by their English names.
 I think we can put in a place a platform which allow the native people collaborate about but not limited to native names of people, animals, plants, places, household tools.
 
-# What are your thoughts? Thank you
+# What are your thoughts?
+I would be very happy to read your thoughts and suggestion about a platform like this. Thank you
